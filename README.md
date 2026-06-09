@@ -12,6 +12,7 @@ npx skills add https://github.com/gasatrya/skills
 
 | Skill Folder / Link | Concise Summary |
 | :--- | :--- |
+| **[`bug-debugging`](./bug-debugging/SKILL.md)** | Diagnoses and fixes defects in existing code, investigating broken behavior, error messages, or stack traces. |
 | **[`code-implementer`](./code-implementer/SKILL.md)** | Translates approved implementation plans into production-ready code with strict adherence to scope and existing conventions. |
 | **[`code-quality-assurance`](./code-quality-assurance/SKILL.md)** | Audits architecture, investigates complex/flaky bugs, and hardens code for production readiness. |
 | **[`code-review`](./code-review/SKILL.md)** | Reviews code changes (diffs, PRs, commits) and provides feedback on correctness, security, and maintainability. |
